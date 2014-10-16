@@ -1,0 +1,22 @@
+La media de errores de Entrenamiento es: 2.542663035229065.
+La desviacion tipica de errores de Entrenamiento es: 1.8647363399167656
+
+La media de errores de Validacion es: 3.1468557312116396.
+La desviacion tipica de errores de Validacion es: 0.45127277544657973
+
+La media de errores de Testeo es: 1.1421226228767507.
+La desviacion tipica de errores de Testeo es: 5.495949221921776
+
+La correlacion entre Validación y Testeo es: 0.3629408909816775
+
+La media de errores de Testeo Clasificiacion es: 4.597701149425287.
+La desviacion tipica de errores de Validacion es: 20.97368174909128
+
+La media de Overfit es: 1.8180915305776835.
+La desviacion tipica de Overfit es: 2.188621277131538
+
+La media de Epocas es: 28.0.
+La desviacion tipica de Epocas es: 16.020819787597222
+
+La media de EpocasRelevantes es: 12.5.
+La desviacion tipica de EpocasRelevantes es: 6.454972243679028
